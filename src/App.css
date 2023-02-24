@@ -1,5 +1,79 @@
+/* body{
+  height: 100%;
+  background-image: url("./img/img22.jpg");
+  background-repeat: no-repeat;
+} */
+
 .App {
   text-align: center;
+}
+
+.navbar{
+  border: 2px solid #90cdd4;
+  /* height: 15vh; */
+}
+
+.error{
+  justify-content: center;
+  text-align: center;
+  padding: 10%;
+}
+
+.dom{
+  /* height: 85vh; */
+}
+
+/* .error{
+  width: 100%;
+  height: 100%;
+} */
+
+.container{
+  width: 100%;
+  height: 100%;
+}
+
+.card-img-top{
+  width: 40%;
+}
+
+.card {
+  border: 2px solid #8a6a6a;
+  border-radius: 30px;
+  background-color: #7cbbcb;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.row{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.head{
+  padding-top: 15px;
+  text-align: center;
+  /* font-style: italic; */
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-brand{
+  margin-right: 10%;
+  margin-left: 2%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 3rem;
+}
+
+.container{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.form-control{
+  width: 40%;
 }
 
 .App-logo {
@@ -23,6 +97,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+/* .card{
+  width: 18rem;
+} */
 
 .App-link {
   color: #61dafb;
